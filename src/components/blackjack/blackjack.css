@@ -1,0 +1,15 @@
+.blackjack-main {
+  border: 1px solid black;
+  width: 100%;
+  border-radius: 5px;
+  padding: 10px;
+}
+h1 {
+  font-weight: bold;
+
+}
+
+ul li {
+  display: inline-flex;
+  padding: 5px
+}
